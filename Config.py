@@ -1,6 +1,6 @@
 
 class CFG:
-    DATA_DIR='/mnt/d/kaggle/amazon-employee-access-challenge/'
+    DATA_DIR='/mnt/d/kaggle/IMDB/'
     OUTPUT_DIR='/mnt/d/adb/'
     file_nm='train.csv'
     n_fold=5
